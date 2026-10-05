@@ -1,0 +1,3 @@
+pyodbc
+textual
+rich
